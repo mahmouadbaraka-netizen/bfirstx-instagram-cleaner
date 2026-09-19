@@ -16,7 +16,7 @@ jobs:
 
       - name: Extract Android project
         run: |
-          unzip -q BFirstX-Instagram-Cleaner-PhoneBuild.zip
+          unzip -q BFirstX-Instagram-Cleaner-PhoneDirect-v2.zip
           ls -la BFirstX-Instagram-Cleaner
 
       - name: Set up Java 17
